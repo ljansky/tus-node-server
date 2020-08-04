@@ -41,23 +41,23 @@
   },
   "devDependencies": {
     "@vimeo/eslint-config-player": "^5.0.1",
-    "babel-eslint": "^10.0.1",
-    "coveralls": "^3.0.3",
-    "cross-env": "^5.2.0",
-    "eslint": "^5.15.1",
-    "eslint-plugin-promise": "^4.0.1",
+    "babel-eslint": "^10.1.0",
+    "coveralls": "^3.1.0",
+    "cross-env": "^5.2.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-promise": "^4.2.1",
     "istanbul": "^0.4.5",
-    "mocha": "^6.0.2",
-    "node-mocks-http": "^1.7.3",
+    "mocha": "^6.2.3",
+    "node-mocks-http": "^1.8.1",
     "nyc": "^13.3.0",
-    "rimraf": "^2.6.3",
+    "rimraf": "^2.7.1",
     "should": "^13.2.3",
-    "supertest": "^4.0.0",
-    "tus-js-client": "^1.6.1"
+    "supertest": "^4.0.2",
+    "tus-js-client": "^1.8.0"
   },
   "dependencies": {
-    "@google-cloud/storage": "^2.4.2",
-    "aws-sdk": "^2.418.0",
+    "@google-cloud/storage": "^5.1.2",
+    "aws-sdk": "^2.726.0",
     "configstore": "^5.0.0",
     "debug": "^4.1.1"
   }
